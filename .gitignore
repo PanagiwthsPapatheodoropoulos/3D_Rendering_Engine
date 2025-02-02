@@ -1,0 +1,22 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Ignore build directories
+x64/
+x86/
+
+# Ignore temporary files
+*.obj
+*.pdb
+*.idb
+*.log
+
+# Ignore SDL2 libraries or any other dependencies you don't want to push
+lib/
+
+# Ignore system files
+Thumbs.db
+.DS_Store
