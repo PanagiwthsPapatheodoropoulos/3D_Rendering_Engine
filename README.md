@@ -23,3 +23,10 @@ A foundational 3D rendering engine developed in C++. This project aims to provid
 
    ```bash
    git clone https://github.com/PanagiwthsPapatheodoropoulos/3D_Rendering_Engine.git
+   ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2025 Your Name. All rights reserved.
