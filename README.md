@@ -29,4 +29,4 @@ A foundational 3D rendering engine developed in C++. This project aims to provid
 
 This project is licensed under the [MIT License](LICENSE).
 
-Copyright (c) 2025 Your Name. All rights reserved.
+Copyright (c) 2025 Papatheodoropoulos Panagiotis. All rights reserved.
